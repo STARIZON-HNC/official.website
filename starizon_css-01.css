@@ -2846,6 +2846,12 @@ figcaption {
   position: relative;
 }
 
+.section-inner.cta-a {
+  min-height: 300px;
+  align-items: flex-end;
+  position: relative;
+}
+
 .section-inner.white {
   border-left-color: rgba(255, 255, 255, .25);
   border-right-color: rgba(255, 255, 255, .25);
@@ -3083,7 +3089,15 @@ figcaption {
 .large-heading {
   letter-spacing: -.01em;
   font-family: Big Shoulders Display, sans-serif;
-  font-size: 5.61em;
+  font-size: 4.61em;
+  font-weight: 700;
+  line-height: 1em;
+}
+
+.large-heading-u {
+  letter-spacing: -.01em;
+  font-family: Big Shoulders Display, sans-serif;
+  font-size: 1.61em;
   font-weight: 700;
   line-height: 1em;
 }
