@@ -3094,6 +3094,14 @@ figcaption {
   line-height: 1em;
 }
 
+.large-heading-a {
+  letter-spacing: -.01em;
+  font-family: Big Shoulders Display, sans-serif;
+  font-size: 2.61em;
+  font-weight: 700;
+  line-height: 1em;
+}
+
 .large-heading-u {
   letter-spacing: -.01em;
   font-family: Big Shoulders Display, sans-serif;
